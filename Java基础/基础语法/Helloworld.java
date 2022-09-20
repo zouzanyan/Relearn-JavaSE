@@ -62,7 +62,7 @@ public class Helloworld {
         System.out.println(str3.charAt(2)); // 根据索引获取字符串的单个字符
 
         /*
-        String 是无法被修改的，对 String 的修改，其实是新建了一个 String 对象。如果需要修改字符串的内容，可以使用 StringBuilder。它相当
+        StringTest 是无法被修改的，对 StringTest 的修改，其实是新建了一个 StringTest 对象。如果需要修改字符串的内容，可以使用 StringBuilder。它相当
         于一个存储字符的容器。
         */
 
@@ -101,7 +101,7 @@ public class Helloworld {
 
 //         scanner用法
 //        Scanner in = new Scanner(System.in);
-//        String s = in.nextLine();
+//        StringTest s = in.nextLine();
 //        System.out.println(s);
 //        while(!in.hasNext("exit")){
 //            System.out.println(in.nextLine());
