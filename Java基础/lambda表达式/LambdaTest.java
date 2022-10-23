@@ -39,5 +39,6 @@ public class LambdaTest {
         stream1.forEach(System.out::println);
 
 
+
     }
 }
